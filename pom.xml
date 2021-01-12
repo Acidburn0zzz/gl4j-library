@@ -17,7 +17,7 @@
   <description>Get Localization Java API</description>
 
   <properties>
-    <http.components.version>4.2.2</http.components.version>
+    <http.components.version>4.5.13</http.components.version>
     <slf4j-api.version>1.7.2</slf4j-api.version>
   </properties>
 
